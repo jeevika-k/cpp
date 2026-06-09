@@ -1,0 +1,10 @@
+In this project, I worked on developing and improving the game functionality step by step.
+
+* Created and organized the project structure.
+* Implemented the core game logic and functionality.
+* Added player-related features and controls.
+* Connected different scripts and components to work together.
+* Fixed errors and debugging issues during development.
+* Tested the project to ensure everything worked correctly.
+* Optimized and improved the code where necessary.
+* Successfully built and verified the final project
